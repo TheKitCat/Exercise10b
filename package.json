@@ -1,0 +1,19 @@
+{
+  "name": "Ex10B",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "katharina",
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jdbc": "^0.5.1",
+    "mysql": "^2.13.0"
+  }
+}
